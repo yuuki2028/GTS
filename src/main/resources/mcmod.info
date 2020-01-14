@@ -1,0 +1,16 @@
+[
+    {
+        "modid": "gts",
+        "name": "GTS",
+        "description": "",
+        "version": "${version}",
+        "mcversion": "${mcversion}",
+        "url": "",
+        "updateUrl": "",
+        "authorList": ["yuuki2028"],
+        "credits": "",
+        "logoFile": "",
+        "screenshots": [],
+        "dependencies": ["gregtech"]
+    }
+]

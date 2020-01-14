@@ -1,0 +1,348 @@
+[22:05:02] [main/INFO] [GradleStart]: Extra: []
+[22:05:02] [main/INFO] [GradleStart]: Found and added coremod: gregtech.common.asm.GTCELoadingPlugin
+[22:05:02] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/yuuki/.gradle/caches/minecraft/assets, --assetIndex, 1.12, --accessToken{REDACTED}, --version, 1.12.2, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[22:05:02] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[22:05:02] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[22:05:02] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[22:05:02] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[22:05:02] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2847 for Minecraft 1.12.2 loading
+[22:05:02] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_161, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jdk1.8.0_161\jre
+[22:05:02] [main/ERROR] [FML]: Apache Maven library folder was not in the format expected. Using default libraries directory.
+[22:05:02] [main/ERROR] [FML]: Full: C:\Users\yuuki\.gradle\caches\modules-2\files-2.1\org.apache.maven\maven-artifact\3.5.3\7dc72b6d6d8a6dced3d294ed54c2cc3515ade9f4\maven-artifact-3.5.3.jar
+[22:05:02] [main/ERROR] [FML]: Trimmed: c:/users/yuuki/.gradle/caches/modules-2/files-2.1/org.apache.maven/maven-artifact/3.5.3/
+[22:05:02] [main/INFO] [FML]: Managed to load a deobfuscated Minecraft name- we are in a deobfuscated environment. Skipping runtime deobfuscation
+[22:05:02] [main/INFO] [FML]: Detected deobfuscated environment, loading log configs for colored console logs.
+[22:05:04] [main/INFO] [FML]: Ignoring missing certificate for coremod FMLCorePlugin (net.minecraftforge.fml.relauncher.FMLCorePlugin), we are in deobf and it's a forge core plugin
+[22:05:04] [main/INFO] [FML]: Ignoring missing certificate for coremod FMLForgePlugin (net.minecraftforge.classloading.FMLForgePlugin), we are in deobf and it's a forge core plugin
+[22:05:04] [main/INFO] [FML]: Found a command line coremod : gregtech.common.asm.GTCELoadingPlugin
+[22:05:04] [main/INFO] [FML]: Ignoring missing certificate for coremod GTCELoadingPlugin (gregtech.common.asm.GTCELoadingPlugin), as this is probably a dev workspace
+[22:05:04] [main/INFO] [FML]: Searching C:\Users\yuuki\IdeaProjects\GTS\run\.\mods for mods
+[22:05:04] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in gregtech-1.12.2-1.8.13.465.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[22:05:04] [main/WARN] [FML]: The coremod GTCELoadingPlugin (gregtech.common.asm.GTCELoadingPlugin) is not signed!
+[22:05:04] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.gradle.tweakers.CoremodTweaker
+[22:05:04] [main/INFO] [GradleStart]: Injecting location in coremod net.minecraftforge.fml.relauncher.FMLCorePlugin
+[22:05:04] [main/INFO] [GradleStart]: Injecting location in coremod net.minecraftforge.classloading.FMLForgePlugin
+[22:05:04] [main/INFO] [GradleStart]: Injecting location in coremod gregtech.common.asm.GTCELoadingPlugin
+[22:05:04] [main/INFO] [GradleStart]: Injecting location in coremod gregtech.common.asm.GTCELoadingPlugin
+[22:05:04] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:05:04] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[22:05:04] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.AccessTransformerTweaker
+[22:05:04] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:05:04] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:05:04] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:05:07] [main/ERROR] [FML]: FML appears to be missing any signature data. This is not a good thing
+[22:05:07] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:05:07] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:05:07] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:05:07] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[22:05:07] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.gradle.tweakers.AccessTransformerTweaker
+[22:05:07] [main/INFO] [GradleStart]: Remapping AccessTransformer rules...
+[22:05:07] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[22:05:07] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[22:05:07] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[22:05:08] [Client thread/INFO] [net.minecraft.client.Minecraft]: Setting user: Player345
+[22:05:12] [Client thread/WARN] [net.minecraft.client.settings.GameSettings]: Skipping bad option: lastServer:
+[22:05:12] [Client thread/INFO] [net.minecraft.client.Minecraft]: LWJGL Version: 2.9.4
+[22:05:13] [Client thread/INFO] [FML]: -- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_161, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 135696400 bytes (129 MB) / 414187520 bytes (395 MB) up to 3804758016 bytes (3628 MB)
+	JVM Flags: 0 total; 
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: 
+	Loaded coremods (and transformers): 
+GTCELoadingPlugin (gregtech-1.12.2-1.8.13.465.jar)
+  gregtech.common.asm.ArmorTransformer
+	GL info: ' Vendor: 'NVIDIA Corporation' Version: '4.6.0 NVIDIA 430.86' Renderer: 'GeForce GT 1030/PCIe/SSE2'
+[22:05:13] [Client thread/INFO] [FML]: MinecraftForge v14.23.5.2847 Initialized
+[22:05:13] [Client thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[22:05:13] [Client thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[22:05:13] [Client thread/INFO] [FML]: Replaced 1227 ore ingredients
+[22:05:14] [Client thread/INFO] [FML]: Searching C:\Users\yuuki\IdeaProjects\GTS\run\.\mods for mods
+[22:05:15] [Client thread/WARN] [FML]: Mod codechickenlib is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 3.2.3.358
+[22:05:15] [Client thread/WARN] [FML]: Mod gregtech is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.8.13.465
+[22:05:15] [Client thread/INFO] [FML]: Forge Mod Loader has identified 7 mods to load
+[22:05:16] [Client thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, gts, codechickenlib, gregtech] at CLIENT
+[22:05:16] [Client thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, gts, codechickenlib, gregtech] at SERVER
+[22:05:17] [Client thread/INFO] [net.minecraft.client.resources.SimpleReloadableResourceManager]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:GTS, FMLFileResourcePack:CodeChicken Lib, FMLFileResourcePack:GregTech Community Edition, Gregtech Internal Resource Pack
+[22:05:18] [Client thread/INFO] [FML]: Processing ObjectHolder annotations
+[22:05:18] [Client thread/INFO] [FML]: Found 1168 ObjectHolder annotations
+[22:05:18] [Client thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[22:05:18] [Client thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[22:05:18] [Client thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[22:05:18] [Forge Version Check/INFO] [forge.VersionCheck]: [codechickenlib] Starting version check at http://chickenbones.net/Files/notification/version.php?query=forge&version=1.12&file=CodeChickenLib
+[22:05:18] [Forge Version Check/INFO] [forge.VersionCheck]: [codechickenlib] Found status: BETA Target: null
+[22:05:18] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[22:05:19] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
+[22:05:19] [Client thread/INFO] [gregtech]: 0 annotated material handlers registered
+[22:05:19] [Client thread/INFO] [gregtech]: Freezing material registry...
+[22:05:20] [Client thread/INFO] [gregtech]: Registering MetaTileEntities
+[22:05:20] [Client thread/INFO] [gregtech]: Registering Blocks...
+[22:05:20] [Client thread/INFO] [FML]: Applying holder lookups
+[22:05:20] [Client thread/INFO] [FML]: Holder lookups applied
+[22:05:20] [Client thread/INFO] [gregtech]: Registering Items...
+[22:05:20] [Client thread/INFO] [FML]: Applying holder lookups
+[22:05:20] [Client thread/INFO] [FML]: Holder lookups applied
+[22:05:20] [Client thread/INFO] [FML]: Applying holder lookups
+[22:05:20] [Client thread/INFO] [FML]: Holder lookups applied
+[22:05:20] [Client thread/INFO] [FML]: Applying holder lookups
+[22:05:20] [Client thread/INFO] [FML]: Holder lookups applied
+[22:05:20] [Client thread/INFO] [FML]: Injecting itemstacks
+[22:05:20] [Client thread/INFO] [FML]: Itemstack injection complete
+[22:05:21] [Thread-3/INFO] [FML]: Using alternative sync timing : 200 frames of Display.update took 6988030900 nanos
+[22:05:25] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Starting up SoundSystem...
+[22:05:25] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: Initializing LWJGL OpenAL
+[22:05:25] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[22:05:26] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: OpenAL initialized.
+[22:05:26] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Sound engine started
+[22:05:33] [Client thread/INFO] [gregtech]: Loading meta tile entity texture sprites...
+[22:05:33] [Client thread/INFO] [gregtech]: Registering cable textures.
+[22:05:33] [Client thread/INFO] [FML]: Max texture size: 16384
+[22:05:34] [Client thread/INFO] [net.minecraft.client.renderer.texture.TextureMap]: Created: 1024x1024 textures-atlas
+[22:05:35] [Client thread/INFO] [gregtech]: Injected MetaTileEntity render model
+[22:05:35] [Client thread/INFO] [gregtech]: Injected cable render model
+[22:05:35] [Client thread/INFO] [gregtech]: Registering special item models
+[22:05:35] [Client thread/INFO] [ArmorRenderTransformer]: Patched method {} successfully
+[22:05:35] [Client thread/INFO] [ArmorRenderTransformer]: Patched method {} successfully
+[22:05:35] [Client thread/INFO] [ArmorRenderTransformer]: Patched method {} successfully
+[22:05:35] [Client thread/INFO] [ArmorRenderTransformer]: Patched method {} successfully
+[22:05:37] [Client thread/INFO] [gregtech]: Registering ore dictionary...
+[22:05:37] [Client thread/INFO] [gregtech]: Registering OreDict entries.
+[22:05:37] [Client thread/INFO] [gregtech]: Registering recipes...
+[22:05:38] [Client thread/INFO] [gregtech]: Modifying vanilla recipes according to config. DON'T BE SCARED OF FML's WARNING ABOUT DANGEROUS ALTERNATIVE PREFIX.
+[22:05:38] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `bucket`, expected `gregtech`. This could be a intended override, but in most cases indicates a broken mod.
+[22:05:38] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `heavy_weighted_pressure_plate`, expected `gregtech`. This could be a intended override, but in most cases indicates a broken mod.
+[22:05:38] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `light_weighted_pressure_plate`, expected `gregtech`. This could be a intended override, but in most cases indicates a broken mod.
+[22:05:38] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `iron_door`, expected `gregtech`. This could be a intended override, but in most cases indicates a broken mod.
+[22:05:38] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `iron_trapdoor`, expected `gregtech`. This could be a intended override, but in most cases indicates a broken mod.
+[22:05:38] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cauldron`, expected `gregtech`. This could be a intended override, but in most cases indicates a broken mod.
+[22:05:38] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `hopper`, expected `gregtech`. This could be a intended override, but in most cases indicates a broken mod.
+[22:05:38] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `iron_bars`, expected `gregtech`. This could be a intended override, but in most cases indicates a broken mod.
+[22:05:38] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `bowl`, expected `gregtech`. This could be a intended override, but in most cases indicates a broken mod.
+[22:05:38] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `paper`, expected `gregtech`. This could be a intended override, but in most cases indicates a broken mod.
+[22:05:38] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `sugar`, expected `gregtech`. This could be a intended override, but in most cases indicates a broken mod.
+[22:05:38] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `flint_and_steel`, expected `gregtech`. This could be a intended override, but in most cases indicates a broken mod.
+[22:05:38] [Client thread/INFO] [gregtech]: Running early material handlers...
+[22:05:39] [Client thread/INFO] [gregtech]: Running late material handlers...
+[22:05:39] [Client thread/INFO] [FML]: Applying holder lookups
+[22:05:39] [Client thread/INFO] [FML]: Holder lookups applied
+[22:05:39] [Client thread/INFO] [gregtech]: Initializing ore generation registry...
+[22:05:39] [Client thread/INFO] [gregtech]: Reloading ore generation files from config...
+[22:05:39] [Client thread/INFO] [gregtech]: Loaded 53 worldgen definitions
+[22:05:39] [Client thread/INFO] [gregtech]: Registering cover behaviors...
+[22:05:39] [Client thread/INFO] [gregtech]: Registering dungeon loot...
+[22:05:39] [Client thread/INFO] [FML]: Injecting itemstacks
+[22:05:39] [Client thread/INFO] [FML]: Itemstack injection complete
+[22:05:39] [Client thread/INFO] [gregtech]: RefinedStorage not found; skipping integration.
+[22:05:39] [Client thread/INFO] [gregtech]: AppliedEnergistics2 not found; skipping integration.
+[22:05:41] [Client thread/INFO] [FML]: Forge Mod Loader has successfully loaded 7 mods
+[22:05:41] [Client thread/WARN] [net.minecraft.client.settings.GameSettings]: Skipping bad option: lastServer:
+[22:05:41] [Client thread/INFO] [com.mojang.text2speech.NarratorWindows]: Narrator library for x64 successfully loaded
+[22:05:42] [Realms Notification Availability checker #1/INFO] [com.mojang.realmsclient.client.RealmsClient]: Could not authorize you against Realms server: Invalid session id
+[22:05:46] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Starting integrated minecraft server version 1.12.2
+[22:05:46] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Generating keypair
+[22:05:46] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[22:05:48] [Server thread/INFO] [FML]: Applying holder lookups
+[22:05:48] [Server thread/INFO] [FML]: Holder lookups applied
+[22:05:48] [Server thread/INFO] [FML]: Loading dimension 0 (New World) (net.minecraft.server.integrated.IntegratedServer@1cf336c0)
+[22:05:49] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 488 advancements
+[22:05:49] [Server thread/INFO] [FML]: Loading dimension -1 (New World) (net.minecraft.server.integrated.IntegratedServer@1cf336c0)
+[22:05:49] [Server thread/INFO] [FML]: Loading dimension 1 (New World) (net.minecraft.server.integrated.IntegratedServer@1cf336c0)
+[22:05:49] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[22:05:49] [Server thread/INFO] [FML]: Unloading dimension -1
+[22:05:50] [Server thread/INFO] [FML]: Unloading dimension 1
+[22:05:50] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Changing view distance to 12, from 10
+[22:05:52] [Netty Local Client IO #0/INFO] [FML]: Server protocol version 2
+[22:05:52] [Netty Server IO #1/INFO] [FML]: Client protocol version 2
+[22:05:52] [Netty Server IO #1/INFO] [FML]: Client attempting to join with 7 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2847,gts@2019.3-1.3.2,codechickenlib@3.2.3.358,gregtech@1.8.13.465,mcp@9.42
+[22:05:52] [Netty Server IO #1/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[22:05:52] [Netty Local Client IO #0/INFO] [FML]: [Netty Local Client IO #0] Client side modded connection established
+[22:05:52] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[22:05:52] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Player345[local:E:8fc11e23] logged in with entity id 130 at (809.6030431299129, 4.0, 503.4213494154123)
+[22:05:52] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Player345 joined the game
+[22:05:53] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[22:05:53] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworld
+[22:05:54] [pool-2-thread-1/WARN] [com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService]: Couldn't look up profile properties for com.mojang.authlib.GameProfile@3ebe7b44[id=f8ecce46-2a8b-3dd7-b17c-715cc94801bb,name=Player345,properties={},legacy=false]
+com.mojang.authlib.exceptions.AuthenticationException: The client has sent too many requests within a certain amount of time
+	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.makeRequest(YggdrasilAuthenticationService.java:79) ~[YggdrasilAuthenticationService.class:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillGameProfile(YggdrasilMinecraftSessionService.java:180) [YggdrasilMinecraftSessionService.class:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService$1.load(YggdrasilMinecraftSessionService.java:60) [YggdrasilMinecraftSessionService$1.class:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService$1.load(YggdrasilMinecraftSessionService.java:57) [YggdrasilMinecraftSessionService$1.class:?]
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3716) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2424) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2298) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2211) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache.get(LocalCache.java:4154) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4158) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:5147) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$LocalLoadingCache.getUnchecked(LocalCache.java:5153) [guava-21.0.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillProfileProperties(YggdrasilMinecraftSessionService.java:170) [YggdrasilMinecraftSessionService.class:?]
+	at net.minecraft.client.Minecraft.getProfileProperties(Minecraft.java:3182) [Minecraft.class:?]
+	at net.minecraft.client.resources.SkinManager$3.run(SkinManager.java:138) [SkinManager$3.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_161]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_161]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_161]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_161]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_161]
+[22:06:11] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[22:06:11] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[22:06:11] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[22:06:11] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworld
+[22:06:11] [Server thread/INFO] [FML]: Unloading dimension 0
+[22:06:13] [Server thread/INFO] [FML]: Applying holder lookups
+[22:06:13] [Server thread/INFO] [FML]: Holder lookups applied
+[22:06:13] [Client thread/FATAL] [net.minecraft.client.Minecraft]: Unreported exception thrown!
+java.lang.NoSuchFieldError: field_178784_b
+	at gregtech.api.metatileentity.MetaTileEntity.onCoverRightClick(MetaTileEntity.java:296) ~[MetaTileEntity.class:?]
+	at gregtech.api.block.machines.BlockMachine.onBlockActivated(BlockMachine.java:295) ~[BlockMachine.class:?]
+	at net.minecraft.client.multiplayer.PlayerControllerMP.processRightClickBlock(PlayerControllerMP.java:455) ~[PlayerControllerMP.class:?]
+	at net.minecraft.client.Minecraft.rightClickMouse(Minecraft.java:1694) ~[Minecraft.class:?]
+	at net.minecraft.client.Minecraft.processKeyBinds(Minecraft.java:2381) ~[Minecraft.class:?]
+	at net.minecraft.client.Minecraft.runTickKeyboard(Minecraft.java:2147) ~[Minecraft.class:?]
+	at net.minecraft.client.Minecraft.runTick(Minecraft.java:1935) ~[Minecraft.class:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1188) ~[Minecraft.class:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:442) [Minecraft.class:?]
+	at net.minecraft.client.main.Main.main(Main.java:118) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_161]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_161]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_161]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_161]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_161]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_161]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_161]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_161]
+	at net.minecraftforge.gradle.GradleStartCommon.launch(GradleStartCommon.java:97) [start/:?]
+	at GradleStart.main(GradleStart.java:25) [start/:?]
+[22:06:13] [Client thread/INFO] [STDOUT]: [net.minecraft.init.Bootstrap:printToSYSOUT:629]: ---- Minecraft Crash Report ----
+
+WARNING: coremods are present:
+  GTCELoadingPlugin (gregtech-1.12.2-1.8.13.465.jar)
+Contact their authors BEFORE contacting forge
+
+// Surprise! Haha. Well, this is awkward.
+
+Time: 12/31/19 10:06 PM
+Description: Unexpected error
+
+java.lang.NoSuchFieldError: field_178784_b
+	at gregtech.api.metatileentity.MetaTileEntity.onCoverRightClick(MetaTileEntity.java:296)
+	at gregtech.api.block.machines.BlockMachine.onBlockActivated(BlockMachine.java:295)
+	at net.minecraft.client.multiplayer.PlayerControllerMP.processRightClickBlock(PlayerControllerMP.java:455)
+	at net.minecraft.client.Minecraft.rightClickMouse(Minecraft.java:1694)
+	at net.minecraft.client.Minecraft.processKeyBinds(Minecraft.java:2381)
+	at net.minecraft.client.Minecraft.runTickKeyboard(Minecraft.java:2147)
+	at net.minecraft.client.Minecraft.runTick(Minecraft.java:1935)
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1188)
+	at net.minecraft.client.Minecraft.run(Minecraft.java:442)
+	at net.minecraft.client.main.Main.main(Main.java:118)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at net.minecraftforge.gradle.GradleStartCommon.launch(GradleStartCommon.java:97)
+	at GradleStart.main(GradleStart.java:25)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Client thread
+Stacktrace:
+	at gregtech.api.metatileentity.MetaTileEntity.onCoverRightClick(MetaTileEntity.java:296)
+	at gregtech.api.block.machines.BlockMachine.onBlockActivated(BlockMachine.java:295)
+	at net.minecraft.client.multiplayer.PlayerControllerMP.processRightClickBlock(PlayerControllerMP.java:455)
+	at net.minecraft.client.Minecraft.rightClickMouse(Minecraft.java:1694)
+	at net.minecraft.client.Minecraft.processKeyBinds(Minecraft.java:2381)
+	at net.minecraft.client.Minecraft.runTickKeyboard(Minecraft.java:2147)
+
+-- Affected level --
+Details:
+	Level name: MpServer
+	All players: 1 total; [EntityPlayerSP['Player345'/130, l='MpServer', x=808.87, y=4.00, z=500.68]]
+	Chunk stats: MultiplayerChunkCache: 530, 530
+	Level seed: 0
+	Level generator: ID 01 - flat, ver 0. Features enabled: false
+	Level generator options: 
+	Level spawn location: World: (804,4,498), Chunk: (at 4,0,2 in 50,31; contains blocks 800,0,496 to 815,255,511), Region: (1,0; contains chunks 32,0 to 63,31, blocks 512,0,0 to 1023,255,511)
+	Level time: 31453 game time, 31453 day time
+	Level dimension: 0
+	Level storage version: 0x00000 - Unknown?
+	Level weather: Rain time: 0 (now: false), thunder time: 0 (now: false)
+	Level game mode: Game mode: creative (ID 1). Hardcore: false. Cheats: false
+	Forced entities: 56 total; [EntitySlime['Slime'/13, l='MpServer', x=735.26, y=4.00, z=444.87], EntitySlime['Slime'/16, l='MpServer', x=747.52, y=4.00, z=460.41], EntitySlime['Slime'/17, l='MpServer', x=736.78, y=4.00, z=433.65], EntitySlime['Slime'/18, l='MpServer', x=757.30, y=4.75, z=440.94], EntitySlime['Slime'/19, l='MpServer', x=751.32, y=4.00, z=449.21], EntitySlime['Slime'/20, l='MpServer', x=752.71, y=4.00, z=456.34], EntitySlime['Slime'/21, l='MpServer', x=737.66, y=4.00, z=470.18], EntitySlime['Slime'/25, l='MpServer', x=734.30, y=5.18, z=576.67], EntitySlime['Slime'/28, l='MpServer', x=744.85, y=4.00, z=430.80], EntityPlayerSP['Player345'/130, l='MpServer', x=808.87, y=4.00, z=500.68], EntitySlime['Slime'/29, l='MpServer', x=761.64, y=4.00, z=487.67], EntitySlime['Slime'/30, l='MpServer', x=762.03, y=4.00, z=541.35], EntitySlime['Slime'/1953, l='MpServer', x=756.25, y=4.00, z=529.69], EntitySlime['Slime'/36900, l='MpServer', x=841.07, y=4.92, z=509.06], EntitySlime['Slime'/37, l='MpServer', x=765.89, y=4.00, z=496.91], EntityHorse['Horse'/38, l='MpServer', x=777.95, y=4.00, z=535.95], EntitySlime['Slime'/39, l='MpServer', x=771.95, y=4.00, z=535.52], EntityChicken['Chicken'/43, l='MpServer', x=779.73, y=4.00, z=544.79], EntityHorse['Horse'/44, l='MpServer', x=794.98, y=4.00, z=561.38], EntityHorse['Horse'/45, l='MpServer', x=796.36, y=4.00, z=546.18], EntityItem['item.item.egg'/46, l='MpServer', x=785.73, y=4.00, z=551.27], EntitySlime['Slime'/47, l='MpServer', x=798.19, y=5.18, z=564.08], EntitySlime['Slime'/57913, l='MpServer', x=888.17, y=4.67, z=445.15], EntityPig['Pig'/62, l='MpServer', x=808.46, y=4.00, z=436.25], EntitySlime['Slime'/63, l='MpServer', x=800.52, y=4.00, z=472.99], EntitySlime['Slime'/64, l='MpServer', x=812.33, y=4.00, z=527.43], EntityHorse['Horse'/65, l='MpServer', x=811.33, y=4.00, z=548.88], EntitySlime['Slime'/66, l='MpServer', x=810.30, y=4.80, z=568.70], EntitySlime['Slime'/57922, l='MpServer', x=733.67, y=4.00, z=471.22], EntitySlime['Slime'/67, l='MpServer', x=806.59, y=5.02, z=564.04], EntityChicken['Chicken'/73, l='MpServer', x=828.54, y=4.00, z=458.18], EntityItem['item.item.egg'/74, l='MpServer', x=828.68, y=4.00, z=458.98], EntitySlime['Slime'/75, l='MpServer', x=829.54, y=4.00, z=470.28], EntitySlime['Slime'/76, l='MpServer', x=839.75, y=4.00, z=501.34], EntitySlime['Slime'/77, l='MpServer', x=812.22, y=4.00, z=562.86], EntityPig['Pig'/88, l='MpServer', x=834.50, y=4.00, z=426.50], EntityPig['Pig'/89, l='MpServer', x=846.26, y=4.00, z=437.56], EntitySheep['Sheep'/90, l='MpServer', x=841.79, y=4.00, z=460.70], EntityCow['Cow'/91, l='MpServer', x=847.79, y=4.00, z=467.62], EntitySheep['Sheep'/92, l='MpServer', x=847.82, y=4.00, z=486.62], EntitySlime['Slime'/93, l='MpServer', x=837.71, y=4.75, z=485.24], EntitySlime['Slime'/94, l='MpServer', x=835.24, y=4.00, z=478.68], EntitySlime['Slime'/95, l='MpServer', x=837.50, y=5.17, z=480.13], EntitySlime['Slime'/96, l='MpServer', x=846.34, y=4.00, z=503.98], EntitySlime['Slime'/97, l='MpServer', x=855.69, y=5.25, z=548.76], EntitySheep['Sheep'/101, l='MpServer', x=863.35, y=4.00, z=478.28], EntityCow['Cow'/103, l='MpServer', x=849.35, y=4.00, z=575.27], EntitySlime['Slime'/56807, l='MpServer', x=755.41, y=4.28, z=431.92], EntitySlime['Slime'/105, l='MpServer', x=880.40, y=4.00, z=433.99], EntitySlime['Slime'/106, l='MpServer', x=863.31, y=4.14, z=505.74], EntityCow['Cow'/107, l='MpServer', x=871.01, y=4.00, z=577.38], EntitySlime['Slime'/108, l='MpServer', x=868.36, y=4.50, z=569.60], EntitySlime['Slime'/32109, l='MpServer', x=758.78, y=4.00, z=432.20], EntitySlime['Slime'/4336, l='MpServer', x=848.03, y=4.00, z=517.70], EntityCow['Cow'/113, l='MpServer', x=883.33, y=4.00, z=478.55], EntitySlime['Slime'/47346, l='MpServer', x=834.25, y=5.18, z=548.17]]
+	Retry entities: 0 total; []
+	Server brand: fml,forge
+	Server type: Integrated singleplayer server
+Stacktrace:
+	at net.minecraft.client.multiplayer.WorldClient.addWorldInfoToCrashReport(WorldClient.java:461)
+	at net.minecraft.client.Minecraft.addGraphicsAndWorldToCrashReport(Minecraft.java:2889)
+	at net.minecraft.client.Minecraft.run(Minecraft.java:471)
+	at net.minecraft.client.main.Main.main(Main.java:118)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at net.minecraftforge.gradle.GradleStartCommon.launch(GradleStartCommon.java:97)
+	at GradleStart.main(GradleStart.java:25)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_161, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 1011713808 bytes (964 MB) / 1423441920 bytes (1357 MB) up to 3804758016 bytes (3628 MB)
+	JVM Flags: 0 total; 
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: MCP 9.42 Powered by Forge 14.23.5.2847 7 mods loaded, 7 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+
+	| State  | ID             | Version      | Source                                        | Signature                                |
+	|:------ |:-------------- |:------------ |:--------------------------------------------- |:---------------------------------------- |
+	| LCHIJA | minecraft      | 1.12.2       | minecraft.jar                                 | None                                     |
+	| LCHIJA | mcp            | 9.42         | minecraft.jar                                 | None                                     |
+	| LCHIJA | FML            | 8.0.99.99    | forgeSrc-1.12.2-14.23.5.2847.jar              | None                                     |
+	| LCHIJA | forge          | 14.23.5.2847 | forgeSrc-1.12.2-14.23.5.2847.jar              | None                                     |
+	| LCHIJA | gts            | 2019.3-1.3.2 | main                                          | None                                     |
+	| LCHIJA | codechickenlib | 3.2.3.358    | CodeChickenLib-1.12.2-3.2.3.358-universal.jar | f1850c39b2516232a2108a7bd84d1cb5df93b261 |
+	| LCHIJA | gregtech       | 1.8.13.465   | gregtech-1.12.2-1.8.13.465.jar                | None                                     |
+
+	Loaded coremods (and transformers): 
+GTCELoadingPlugin (gregtech-1.12.2-1.8.13.465.jar)
+  gregtech.common.asm.ArmorTransformer
+	GL info: ' Vendor: 'NVIDIA Corporation' Version: '4.6.0 NVIDIA 430.86' Renderer: 'GeForce GT 1030/PCIe/SSE2'
+	Launched Version: 1.12.2
+	LWJGL: 2.9.4
+	OpenGL: GeForce GT 1030/PCIe/SSE2 GL version 4.6.0 NVIDIA 430.86, NVIDIA Corporation
+	GL Caps: Using GL 1.3 multitexturing.
+Using GL 1.3 texture combiners.
+Using framebuffer objects because OpenGL 3.0 is supported and separate blending is supported.
+Shaders are available because OpenGL 2.1 is supported.
+VBOs are available because OpenGL 1.5 is supported.
+
+	Using VBOs: Yes
+	Is Modded: Definitely; Client brand changed to 'fml,forge'
+	Type: Client (map_client.txt)
+	Resource Packs: 
+	Current Language: English (US)
+	Profiler Position: N/A (disabled)
+	CPU: 4x Intel(R) Core(TM) i5-6600 CPU @ 3.30GHz
+[22:06:13] [Client thread/INFO] [STDOUT]: [net.minecraft.init.Bootstrap:printToSYSOUT:629]: #@!@# Game crashed! Crash report saved to: #@!@# C:\Users\yuuki\IdeaProjects\GTS\run\.\crash-reports\crash-2019-12-31_22.06.13-client.txt
